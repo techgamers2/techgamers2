@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **windows tweaking , website hosting**
 
-- 📫 How to reach me <a href="https://tecnik.pages.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+- 📫 How to reach me <a href="https://tecnik.pages.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> </a>
 
 - ⚡ Fun fact **i m casual gamer**
 
