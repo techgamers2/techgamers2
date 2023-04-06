@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techgamers2&label=Profile%20views&color=0e75b6&style=flat" alt="techgamers2" /> </p>
 
-<p align="left"> <img src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png"height="40" width="40" alt="verified" /></p>
+<p align="left"> <img src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png"height="40" width="40"/></p>
 
 - 🌱 I’m currently learning **computer science**
 
