@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **computer science**
 
-- 💬 Ask me about **windows tweaking , website hosting**
+- 💬 Ask me about **windows tweaking , website hosting , internet security**
 
 - 📫 How to reach me <a href="https://tecnik.pages.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/www.tecnik.com-website-green" alt="website"/> </a>
 
