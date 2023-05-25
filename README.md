@@ -25,5 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techgamers2&show_icons=true&locale=en&layout=compact&theme=dracula" alt="techgamers2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techgamers2&show_icons=true&locale=en&theme=dracula" alt="techgamers2" /></p>
-<p align="left">~ps my skills dont have any label</p>
+GG
 
