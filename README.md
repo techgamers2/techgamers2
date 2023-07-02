@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm tecnik</h1>
+<h1 align="center">Hi 👋, I'm tecnik<img src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png"height="40" width="40"/></h1>
 <h3 align="center">Computer Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techgamers2&label=Profile%20views&color=0e75b6&style=flat" alt="techgamers2" /> </p>
-
-<p align="left"> <img src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png"height="40" width="40"/></p>
 
 - 🌱 I’m currently learning **computer science**
 
