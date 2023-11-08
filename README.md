@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm tecnik <img src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png"height="30" width="30"></h1>
+<h1 align="center">Hi 👋, I'm tecnik <img src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png" height="30" width="30"></h1>
 <h3 align="center">Computer Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techgamers2&label=Profile%20views&color=0e75b6&style=flat" alt="techgamers2" /> </p>
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **windows tweaking , website hosting , internet security**
 
-- 📫 How to reach me <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png"height="30" width="30"><a href="https://tecnik.pages.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/www.tecnik.com-online-green" alt="website"/> </a>
+- 📫 How to reach me <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" height="30" width="30"><a href="https://tecnik.pages.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/www.tecnik.com-online-green" alt="website"/> </a>
 
 - ⚡ Fun fact **i m casual gamer**
 
