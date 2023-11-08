@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **windows tweaking , website hosting , internet security**
 
-- 📫 How to reach me <a href="https://www.freepnglogos.com/images/discord-logo-png-7622.html"></a><a href="https://tecnik.pages.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/www.tecnik.com-online-green" alt="website"/> </a>
+- 📫 How to reach me <img src="https://www.freepnglogos.com/images/discord-logo-png-7622.html"><a href="https://tecnik.pages.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/www.tecnik.com-online-green" alt="website"/> </a>
 
 - ⚡ Fun fact **i m casual gamer**
 
